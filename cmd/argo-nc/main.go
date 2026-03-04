@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: BSD-3-Clause
 //
 // Copyright 2020 Apertus Soutions, LLC
 //
@@ -14,7 +15,7 @@ import (
 	"syscall"
 
 	flag "github.com/spf13/pflag"
-	"github.com/openxt/openxt-go/pkg/argo"
+	"github.com/openxt/openxt-go/argo"
 )
 
 var (
